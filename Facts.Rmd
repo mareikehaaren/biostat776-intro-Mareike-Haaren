@@ -1,0 +1,18 @@
+---
+title: "Five Fun Facts About Me"
+description: |
+  -- I have a 1 year old Doberman! 
+  
+  -- I’m from a small town in south Georgia but don’t have a Southern accent.
+  
+  -- I can’t function without a steady stream of caffeine.
+  
+  -- My favorite Ethiopian dish is kitfo. 
+  
+  -- I just moved to Baltimore this summer and welcome any recommendations for restaurants, activities, etc.
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```

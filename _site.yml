@@ -1,0 +1,16 @@
+name: "Project 0"
+title: "My Website"
+description: |
+  My Website
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Background/Training"
+      href: about.html
+    - text: "Five Fun Facts about Me"
+      href: Facts.html
+    - text: "Cool Website"
+      href: Website.html
+output: distill::distill_article

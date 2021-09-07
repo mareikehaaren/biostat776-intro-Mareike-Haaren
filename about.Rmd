@@ -1,0 +1,11 @@
+---
+title: "Background/Training"
+description: |
+  I attended the University of Virginia for undergrad, where I was first exposed to R during an intro biostatistics course. After graduating with a bachelors in Human Biology, I joined the Peace Corps as a community health educator. Unfortunately, due to the pandemic, I was evacuated out of Ethiopia after 14 months. My Peace Corps experience sparked my interest in public health and led me to join JHSPH.
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

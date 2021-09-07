@@ -1,0 +1,11 @@
+---
+title: "Cool Website"
+description: |
+ I received a GHEFP to work with CHAMPS Bangladesh at icddr,b. This team is part of a global surveillance network that works to generate and share cause of death data on child mortality. It’s really exciting and fascinating work, so check it out! 
+ https://champshealth.org/sites-bangladesh/
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
