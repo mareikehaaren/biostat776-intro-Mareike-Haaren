@@ -1,1 +1,3 @@
-# biostat776-intro-Mareike-Haaren
+# Introducing Myself
+
+This website contains a short introduction of Mareike Haaren.
