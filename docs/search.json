@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Background/Training",
+      "description": "I attended the University of Virginia for undergrad, where I was first exposed to R during an intro biostatistics course. After graduating with a bachelors in Human Biology, I joined the Peace Corps as a community health educator. Unfortunately, due to the pandemic, I was evacuated out of Ethiopia after 14 months. My Peace Corps experience sparked my interest in public health and led me to join JHSPH.\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-09-07T11:26:26-04:00"
+    },
+    {
+      "path": "Facts.html",
+      "title": "Five Fun Facts About Me",
+      "description": "-- I have a 1 year old Doberman! \n\n-- I’m from a small town in south Georgia but don’t have a Southern accent.\n\n-- I can’t function without a steady stream of caffeine.\n\n-- My favorite Ethiopian dish is kitfo. \n\n-- I just moved to Baltimore this summer and welcome any recommendations for restaurants, activities, etc.\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-09-07T11:26:26-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "My Website",
+      "description": "Welcome to my site! \n",
+      "author": [],
+      "contents": "\nAbout Me\nMy name is Mareike and I’m a MSPH student in the global disease epidemiology and control program. I’m completing certificates in Vaccine Science and Policy, Humanitarian Health, and Evaluation of International Health Programs.\n\n\n\n",
+      "last_modified": "2021-09-07T11:26:26-04:00"
+    },
+    {
+      "path": "Website.html",
+      "title": "Cool Website",
+      "description": "I received a GHEFP to work with CHAMPS Bangladesh at icddr,b. This team is part of a global surveillance network that works to generate and share cause of death data on child mortality. It’s really exciting and fascinating work, so check it out! \nhttps://champshealth.org/sites-bangladesh/\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-09-07T11:26:27-04:00"
+    }
+  ],
+  "collections": []
+}
